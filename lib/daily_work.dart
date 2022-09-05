@@ -98,7 +98,7 @@ class _DailyWorkState extends State<DailyWork> {
                   });
                 }else{
                   RewardedAd.load(
-                      adUnitId: "ca-app-pub-3940256099942544/5224354917",
+                      adUnitId: "ca-app-pub-7895785002676863/2742615508",
                       request: const AdRequest(),
                       rewardedAdLoadCallback: RewardedAdLoadCallback(
                           onAdLoaded: (ad){
